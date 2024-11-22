@@ -1,0 +1,4 @@
+TODO:
+16. Finish inventory(map,items,etc) - MOSTLY COMPLETE
+        - Might do map, might not, otherwise complete
+17. Create a save/load system - Need to learn several other things
